@@ -9,6 +9,6 @@
 3. Mamão
 
 * [Google](https://google.com)
-* [Bing](https://bing.com)
+* [Bing](https://www.bing.com)
 
 ![Imagem](https://images.freeimages.com/images/large-previews/89a/one-tree-hill-1360813.jpg)
