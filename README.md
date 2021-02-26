@@ -12,3 +12,5 @@
 * [Bing](https://www.bing.com)
 
 ![Imagem](https://images.freeimages.com/images/large-previews/89a/one-tree-hill-1360813.jpg)
+
+> <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
